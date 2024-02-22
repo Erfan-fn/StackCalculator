@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9875212-c1d2-49cd-a8e8-16e6bc72f485" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/stackcalculator/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/stackcalculator/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/stackcalculator/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/stackcalculator/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/stackcalculator/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/stackcalculator/MathOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/stackcalculator/Alerts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/stackcalculator/Alerts.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YQt7p8hhpfVPbyBaSIO1P4n6ES" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last.edited.regexp&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/IdeaProjects/first-project-Erfan-fn/first_project&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9875212-c1d2-49cd-a8e8-16e6bc72f485" name="Changes" comment="" />
+      <created>1700469468707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700469468707</updated>
+      <workItem from="1700469471073" duration="105000" />
+      <workItem from="1700469606483" duration="407000" />
+      <workItem from="1700561816868" duration="2935000" />
+      <workItem from="1700634993094" duration="7583000" />
+      <workItem from="1701510681106" duration="11536000" />
+      <workItem from="1701594183344" duration="5549000" />
+      <workItem from="1701622582744" duration="7892000" />
+      <workItem from="1701678129709" duration="3467000" />
+      <workItem from="1701700190423" duration="67000" />
+      <workItem from="1701758275362" duration="28138000" />
+      <workItem from="1701890193849" duration="100000" />
+      <workItem from="1702893654512" duration="3183000" />
+      <workItem from="1702900957440" duration="8318000" />
+      <workItem from="1702988532198" duration="637000" />
+      <workItem from="1703763705271" duration="140000" />
+      <workItem from="1704443103493" duration="6000" />
+      <workItem from="1704444885659" duration="632000" />
+      <workItem from="1704447381331" duration="182000" />
+      <workItem from="1704700853760" duration="208000" />
+      <workItem from="1704716709004" duration="2598000" />
+      <workItem from="1704721200426" duration="18000" />
+      <workItem from="1706631394303" duration="355000" />
+      <workItem from="1706631824551" duration="12000" />
+      <workItem from="1706631851794" duration="29000" />
+      <workItem from="1706633787702" duration="208000" />
+      <workItem from="1706640851548" duration="137000" />
+      <workItem from="1706690291580" duration="2386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.example.stackcalculator.LinkedStack$Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
